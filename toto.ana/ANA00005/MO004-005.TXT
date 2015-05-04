@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+EXPRESS_bdClement		TAR	251	nouvelle taille enregistrement : 251
+EXPRESS_bdClement	libelle	TAI+	100	la rubrique libelle a comme nouvelle taille 151 au lieu de 51

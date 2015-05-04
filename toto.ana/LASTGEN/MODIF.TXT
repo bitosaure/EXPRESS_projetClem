@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+EXPRESS_bdClement		TAR	151	nouvelle taille enregistrement : 151
+EXPRESS_bdClement	Type	NNR	Express_Version	ATTENTION : la rubrique Express_Version a pour nouveau nom Type
+EXPRESS_bdClement	Express_Version	RUB+		Express_Version est une nouvelle rubrique

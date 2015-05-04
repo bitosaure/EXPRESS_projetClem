@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+EXPRESS_bdClement		NFI		nouveau fichier
+EXPRESS_toto		NFI		nouveau fichier
+Connexion à 'toto.db'		CNX+		
